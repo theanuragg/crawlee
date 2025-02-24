@@ -12,7 +12,6 @@ coverage
 logs
 pids
 .idea
-.vscode
 package-lock.json
 tmp
 jsconfig.json
@@ -30,3 +29,4 @@ test/e2e/**/packages
 
 # we use corepack, no need to commit yarn binary
 .yarn
+config.bat
